@@ -26,8 +26,12 @@ job-alerts-reader's use and transfer of information received from Google APIs wi
 
 ## Removing access
 
-Access can be removed at any time in your Google Account, under Security, in the list of third-party apps and services with account access.
+Access can be removed at any time in your Google Account, under Security, in the list of third-party apps and services with account access. To ask for stored data to be deleted, open an issue at [github.com/Jester-Head/Jester-Head.github.io/issues](https://github.com/Jester-Head/Jester-Head.github.io/issues).
 
 ## Changes
 
 If this policy changes, the new version will be posted on this page with a new effective date.
+
+## Contact
+
+Questions can be sent by opening an issue at [github.com/Jester-Head/Jester-Head.github.io/issues](https://github.com/Jester-Head/Jester-Head.github.io/issues).

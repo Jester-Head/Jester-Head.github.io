@@ -26,7 +26,7 @@ job-alerts-reader's use and transfer of information received from Google APIs wi
 
 ## Removing access
 
-Access can be removed at any time in your Google Account, under Security, in the list of third-party apps and services with account access. To ask for stored data to be deleted, email [contact email].
+Access can be removed at any time in your Google Account, under Security, in the list of third-party apps and services with account access.
 
 ## Changes
 

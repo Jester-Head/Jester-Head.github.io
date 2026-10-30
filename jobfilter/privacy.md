@@ -1,3 +1,7 @@
+---
+title: Privacy Policy for job-alerts-reader
+---
+
 # Privacy Policy for job-alerts-reader
 
 Effective October 30, 2026
